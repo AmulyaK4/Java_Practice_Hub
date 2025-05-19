@@ -1,4 +1,5 @@
 Java Practice Hub 🖥️☕
+
 Welcome to my Java Practice Hub — a dedicated space where I systematically explore, practice, and master Java programming concepts. This repository is a growing collection of Java programs that cover everything from fundamental syntax to problem-solving with loops, conditionals, arrays, and beyond.
 
 Why This Repo?
