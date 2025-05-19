@@ -7,6 +7,5 @@ Why This Repo?
 This repository serves as both my personal reference and a resource for fellow learners who want to see how Java concepts are applied in practice. Whether you’re a beginner looking for simple examples or an intermediate learner seeking problem-solving practice, you’ll find useful content here.
 
 Happy Coding! 
-
 — Kokkula Amulya
 
